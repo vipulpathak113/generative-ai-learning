@@ -8,7 +8,7 @@ To activate the dev container, launch it in [GitHub Codespaces](https://docs.git
 > We recommend using GitHub Codespaces for a quick start with minimal effort. It provides a generous [free usage quota](https://docs.github.com/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts?WT.mc_id=academic-105485-koreyst) for personal accounts. Configure [timeouts](https://docs.github.com/codespaces/setting-your-user-preferences/setting-your-timeout-period-for-github-codespaces?WT.mc_id=academic-105485-koreyst) to stop or delete inactive codespaces to maximize your quota usage.
 
 
-## 1. Executing Assignments
+## 1. Executing Assignments!!
 
 Each lesson will have _optional_ assignments that may be provided in one or more programming languages including: Python, .NET/C#, Java and JavaScript/TypeScript. This section provides general guidance related to executing those assignments.
 
